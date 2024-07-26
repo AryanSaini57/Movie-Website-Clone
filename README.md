@@ -27,13 +27,12 @@ The Movie Website Clone App is a web application built with React and TailwindCS
 ## Screenshots
 
 ### Home Page
-!(![Screenshot (35)](https://github.com/user-attachments/assets/73710ebe-9e0f-4ed1-b883-c3d7fc03e3bc)
-)![Screenshot (34)](https://github.com/user-attachments/assets/6f31c999-c65d-462e-9f48-58b84110102f)
+![Screenshot (35)](https://github.com/user-attachments/assets/73710ebe-9e0f-4ed1-b883-c3d7fc03e3bc)
+![Screenshot (34)](https://github.com/user-attachments/assets/6f31c999-c65d-462e-9f48-58b84110102f)
 
 
 ### Watchlist Page
-!(![Screenshot (33)](https://github.com/user-attachments/assets/24ec0530-c67f-4b70-8303-9705e74b0592)
-)
+![Screenshot (33)](https://github.com/user-attachments/assets/24ec0530-c67f-4b70-8303-9705e74b0592)
 
 ## Getting Started
 
